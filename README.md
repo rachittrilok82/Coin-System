@@ -9,4 +9,3 @@ The Coin System ckecks whether the Coupun code is Valid or not based on the vali
 <img src="ss1.PNG"/><br/><br/>
 <img src="ss2.PNG"/><br/><br/>
 <img src="ss3.PNG"/><br/><br/>
-<img src="ss4.PNG"/><br/><br/>
